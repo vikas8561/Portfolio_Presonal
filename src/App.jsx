@@ -115,8 +115,15 @@ const App = () => {
           <section className="about" id="about">
             <h2>About Me</h2>
             <p>
-            I am a software developer with a growing passion for web development and hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). I’ve also worked with Angular and .NET Core, building and learning through projects that have helped me strengthen my understanding of both front-end and back-end development. 
-            I’m eager to grow, learn from seasoned professionals, and contribute to meaningful projects. I enjoy tackling challenges, improving my coding skills, and building applications that make a difference.
+              A software developer with a growing passion for web development
+              and hands-on experience in the MERN stack (MongoDB, Express.js,
+              React, Node.js). Also experienced with Angular and .NET Core,
+              having built and contributed to projects that reinforce strong
+              proficiency in both front-end and back-end development. Eager to
+              continuously grow, collaborate with experienced professionals, and
+              contribute to impactful projects. Driven by a commitment to
+              overcoming challenges, enhancing coding abilities, and developing
+              applications that deliver real-world value.
             </p>
           </section>
         </header>
